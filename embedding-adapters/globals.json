@@ -1,0 +1,6 @@
+{
+	"main_pdf": "../data/robotic-intelligence-with-llms.pdf",
+	"negative_pdf": "../data/nvidia_10k.pdf",
+	"train_path": "../data/train.json",
+	"validation_path": "../data/validation.json"
+}
